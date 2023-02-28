@@ -1,0 +1,1 @@
+### Este programa tiene como función seleccionar un número, para que por medio del "case" se pueda usar como opción para que le muestre al usuario como se lee ese número que acaba de indicarle a la computadora.
